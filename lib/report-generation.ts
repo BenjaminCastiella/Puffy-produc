@@ -6,7 +6,7 @@ type Message = {
   timestamp: Date
 }
 
-// Type for student report
+// Type for student report 
 export type StudentReport = {
   id: string
   studentId: string
